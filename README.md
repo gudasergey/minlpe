@@ -3,6 +3,14 @@ Adaptive sampling based on the minimization of approximation error Lp norm. MaxL
 
 ![Demo](./demo.gif)
 
+## Installation
+
+pip install --upgrade minlpe
+
+## Usage
+
+See file examples.py
+
 ### If you like the software acknowledge it using the references below:
 
 S.A.Guda, A.S.Algasov, V.I.Kolesnikov, A.V.Soldatov, V.V.Ilicheva Fast adaptive sampling with operation time control // Journal of Computational Science, in press.
