@@ -3,12 +3,6 @@ Adaptive sampling based on the minimization of approximation error Lp norm. MaxL
 
 ![Demo](./demo.gif)
 
-### This project is developing thanks to
-
-- Sergey Guda
-- Alexandr Algasov
-- Alexander Guda
-
 ### If you like the software acknowledge it using the references below:
 
-S.A.Guda, A.S.Algasov, A.A.Guda Fast adaptive sampling with operation time control // Journal of Computational Science, in press.
+S.A.Guda, A.S.Algasov, V.I.Kolesnikov, A.V.Soldatov, V.V.Ilicheva Fast adaptive sampling with operation time control // Journal of Computational Science, in press.
