@@ -13,4 +13,4 @@ See file examples.py
 
 ### If you like the software acknowledge it using the references below:
 
-S.A.Guda, A.S.Algasov, V.I.Kolesnikov, A.V.Soldatov, V.V.Ilicheva Fast adaptive sampling with operation time control // Journal of Computational Science, in press.
+[S.A.Guda, A.S.Algasov, V.I.Kolesnikov, A.V.Soldatov, V.V.Ilicheva Fast adaptive sampling with operation time control // Journal of Computational Science, Volume 67, 2023, 101946, ISSN 1877-7503, https://doi.org/10.1016/j.jocs.2023.101946.](https://www.sciencedirect.com/science/article/abs/pii/S1877750323000066?via%3Dihub)
